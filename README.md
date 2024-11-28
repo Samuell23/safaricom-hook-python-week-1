@@ -2,11 +2,11 @@
 
 Intro to Python Assignment
 
-##Objective
+### Objective
 
 Practice creating Python programs to perform arithmetic and string, experimenting with variables, and exploring data types.
 
-##Instructions:
+### Instructions:
 
 
 Basic Calculator Program
@@ -16,7 +16,7 @@ Perform the operation based on the user's input and print the result.
 Example: If a user inputs 10, 5, and +, your program should display 10 + 5 = 15.
 
 
-##Note: Upload the code to GitHub and submit the GitHub link
+## Note: Upload the code to GitHub and submit the GitHub link
 
 
 
